@@ -21,3 +21,6 @@ Thumbs.db
 # Env
 .env
 .env.local
+
+# Rubbish
+/rubbish bin/
